@@ -2,8 +2,11 @@
 Fivem Ready
 
 Drag and drop into Resources
-Add "start aqv" to your server.cfg
-Done enjoy your fallout aqv
+
+Add "start dodgeviperghostbusters" to your server.cfg
+
+Done enjoy your Ghostbusters viper
+
 INCLUDES ALL FILES
 
 stream
